@@ -1,4 +1,4 @@
-package classeMain;
+package classeMail;
 
 public class OperadorArtimetico {
 	

@@ -1,4 +1,4 @@
-package classeMain;
+package classeMail;
 
 import java.util.Date;
 
