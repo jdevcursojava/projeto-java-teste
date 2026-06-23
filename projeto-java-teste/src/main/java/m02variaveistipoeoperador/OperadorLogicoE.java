@@ -1,4 +1,4 @@
-package variaveistipoeoperador;
+package m02variaveistipoeoperador;
 
 public class OperadorLogicoE {
 	

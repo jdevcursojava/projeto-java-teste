@@ -1,4 +1,4 @@
-package variaveistipoeoperador;
+package m02variaveistipoeoperador;
 
 public class TiposPrimitivos {
 	public static void main(String[] args) {
