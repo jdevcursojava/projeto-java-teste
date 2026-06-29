@@ -10,7 +10,7 @@ public class MutabilidadeImutabilidade {
 		 stringBuilder.append("\nJava\n");
 		 stringBuilder.append("Hibernate\n");
 		 stringBuilder.append("Spring boot\n");
-		 System.out.println("Objeto IMutável: "+ stringBuilder.toString());
+		 System.out.println("Objeto Mutável: "+ stringBuilder.toString());
 		 
 		
 		/*Imutabilidade >>> Objeto NÃO pode ser alterado O SEU VALOR.*/
